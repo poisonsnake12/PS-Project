@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4311c509-2597-4ae9-b6bd-536ca171a602": {
+      "ProjectGuid": "4311c509-2597-4ae9-b6bd-536ca171a602",
+      "DisplayName": "UserLogin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bce27970-ec96-4f9a-bffe-35a9046456fa": {
+      "ProjectGuid": "bce27970-ec96-4f9a-bffe-35a9046456fa",
+      "DisplayName": "StudentInfoSystem",
+      "ColorIndex": 1
+    },
+    "4392d3c1-2fbb-4f2e-b784-b50cfc1b0875": {
+      "ProjectGuid": "4392d3c1-2fbb-4f2e-b784-b50cfc1b0875",
+      "DisplayName": "WPFHello",
+      "ColorIndex": 2
+    },
+    "bc664d3e-3a6e-44e2-ae20-3b4a96105e69": {
+      "ProjectGuid": "bc664d3e-3a6e-44e2-ae20-3b4a96105e69",
+      "DisplayName": "WPFHello",
+      "ColorIndex": 3
+    },
+    "160f48b0-de72-4e96-887d-08c4177b2aa9": {
+      "ProjectGuid": "160f48b0-de72-4e96-887d-08c4177b2aa9",
+      "DisplayName": "Expenselt",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
